@@ -19,4 +19,3 @@ My website - [igorduino.ru](https://igorduino.ru)
  <img src="https://www.codewars.com/users/IgorDuino/badges/micro" alt="CodeWars">
 </a>
 
-
