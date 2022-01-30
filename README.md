@@ -6,3 +6,4 @@
  - 🏫 Учусь в [Лицее 1580](https://lycu1580.mskobr.ru/#/)
  - 🔍 Ищу фронтеров, чтобы пилить проекты вместе
  - 🖥️Активный проект - IsAbsent [API](https://github.com/IgorDuino/isabsent_api)   &  [Telegram bot](https://github.com/IgorDuino/isabsent_tg)
+ - 👪Наша команда - [СupSoft](https://cupsoft.ru)
