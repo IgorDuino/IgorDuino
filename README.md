@@ -4,6 +4,6 @@
 My website - [igorkuzmenkov.ru](https://igorkuzmenkov.ru) ~~*now under repair* 😣~~
  - 🧑‍💻Doing backend in Python
  - 🏫 I study in [1580 lyceum](https://lycu1580.mskobr.ru/#/)
- - 🔍 I'm looking for fronders to cut projects together
+ - 🔍 I'm looking for frontend developers to do cool projects together
  - 🖥️ I am currently working on - IsAbsent [API](https://github.com/IgorDuino/isabsent_api) & [Telegram bot](https://github.com/IgorDuino/isabsent_tg)
  - 👪 My team - [СupSoft](https://cupsoft.ru)
