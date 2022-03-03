@@ -1,7 +1,7 @@
 
 # 👋 Hi, everybody
 ## _My name is Igor, I'm 16_
-My website - [igorkuzmenkov.ru](https://igorkuzmenkov.ru) ~~*now under repair* 😣~~
+My website - [igorduino.ru](https://igorduino.ru) ~~*now under repair* 😣~~
  - 🧑‍💻Doing backend in Python
  - 🏫 I study in [1580 lyceum](https://lycu1580.mskobr.ru/#/)
  - 🔍 I'm looking for frontend developers to do cool projects together
