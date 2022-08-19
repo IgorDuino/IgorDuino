@@ -9,4 +9,6 @@ My website - [igorduino.ru](https://igorduino.ru)
  - 🖥️ I am currently working on - **secert** task for enrolling to Yandex Academy
  - 👪 My team - [СupSoft](https://cupsoft.ru)
 
+<a href="https://tryhackme.com/p/IgorDuino">
 <img src="https://tryhackme-badges.s3.amazonaws.com/IgorDuino.png" alt="TryHackMe">
+</a>
