@@ -3,7 +3,7 @@
 ## _My name is Igor, I'm 16_
 
 My website - [igorduino.ru](https://igorduino.ru)
- - 🖥️ Currently I'm improoving my CTF skills on TryHacmeMe  
+ - 🖥️ Currently I'm improoving my CTF skills on TryHackMe  
  - 🧑‍💻 Doing backend in Python
  - 🏫 I study 11th grade in [1580 lyceum](https://lycu1580.mskobr.ru/#/)
  - 👪 My team - [СupSoft](https://cupsoft.ru)
