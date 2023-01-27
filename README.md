@@ -1,9 +1,9 @@
 
-# 👋 Hi, everybody
-## _My name is Igor, I'm 16_
+# 👋 Hi there
+## _My name is Igor, I'm 17_
 
 My website - [igorduino.ru](https://igorduino.ru)
- - 🖥️ Currently I'm improoving my CTF skills on TryHackMe  
+ - 🖥️ Currently I'm improoving my CTF skills and participate in competitions with my [CupTeam](https://ctftime.org/team/196737)  
  - 🧑‍💻 Doing backend in Python
  - 🏫 I study 11th grade in [1580 lyceum](https://lycu1580.mskobr.ru/#/)
  - 👪 My team - [СupSoft](https://cupsoft.ru)
