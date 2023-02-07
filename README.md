@@ -12,6 +12,12 @@ My website - [igorduino.ru](https://igorduino.ru)
  <img src="https://tryhackme-badges.s3.amazonaws.com/IgorDuino.png" alt="TryHackMe">
 </a>
 </br>
+<a href="https://echoctf.red/profile/7633480">
+ <img src="https://echoctf.red/profile/7633480/badge" alt="EchoCTF">
+</a>
+</br>
 <a href="https://www.codewars.com/users/IgorDuino">
  <img src="https://www.codewars.com/users/IgorDuino/badges/micro" alt="CodeWars">
 </a>
+
+
