@@ -13,7 +13,7 @@ My website - [igorduino.ru](https://igorduino.ru)
 </a>
 </br>
 <a href="https://echoctf.red/profile/7633480">
- <img width="20%" src="https://echoctf.red/profile/7633480/badge" alt="EchoCTF">
+ <img width="32%" src="https://echoctf.red/profile/7633480/badge" alt="EchoCTF">
 </a>
 </br>
 <a href="https://www.codewars.com/users/IgorDuino">
