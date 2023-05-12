@@ -3,10 +3,9 @@
 ## _My name is Igor, I'm 17_
 
 My website - [igorduino.ru](https://igorduino.ru)
- - 🖥️ Currently I'm improoving my CTF skills and participate in competitions with my [CupTeam](https://ctftime.org/team/196737)  
+ - 🖥️ CTF Player of [BinaryBears](https://ctftime.org/team/36281) & capitan of [CupTeam](https://ctftime.org/team/196737)  
  - 🧑‍💻 Doing backend in Python
- - 🏫 I study 11th grade in [1580 lyceum](https://lycu1580.mskobr.ru/#/)
- - 👪 My team - [СupSoft](https://cupsoft.ru)
+ - 👪 My studio - [СupSoft](https://cupsoft.ru)
 
 <a href="https://tryhackme.com/p/IgorDuino">
  <img src="https://tryhackme-badges.s3.amazonaws.com/IgorDuino.png?1" alt="TryHackMe">
