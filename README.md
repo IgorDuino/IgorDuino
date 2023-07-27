@@ -3,7 +3,7 @@
 ## _My name is Igor, I'm 17_
 
 My website - [igorduino.ru](https://igorduino.ru)
- - 🖥️ CTF Player of [BinaryBears](https://ctftime.org/team/36281) & capitan of [CupTeam](https://ctftime.org/team/196737)  
+ - 🖥️ CTF Player
  - 🧑‍💻 Doing backend in Python
  - 👪 My studio - [СupSoft](https://cupsoft.ru)
 
