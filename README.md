@@ -1,4 +1,4 @@
-# _My name is Igor
+# 👋 My name is Igor
 My website - [igor.tatar](https://igor.tatar)
  - 🖥️ Information Security RedTeam enjoyer
  - 🧑‍💻 Also doing some backend in Python
