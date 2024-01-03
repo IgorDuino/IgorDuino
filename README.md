@@ -3,6 +3,7 @@ My website - [igor.tatar](https://igor.tatar)
  - 🖥️ Information Security RedTeam enjoyer
  - 🧑‍💻 Also doing some backend in Python
  - 🔍 Looking for a job as a pentester
+ - 🤖 Former roboticist
 
 <a href="https://www.hackthebox.eu/profile/550651">
  <img  width="150px" src="https://www.hackthebox.eu/badge/image/550651" alt="HackTheBox">
