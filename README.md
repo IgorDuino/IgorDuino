@@ -17,7 +17,4 @@ My website - [igor.tatar](https://igor.tatar)
  <img width="150px" src="https://echoctf.red/profile/7633480/badge" alt="EchoCTF">
 </a>
 </br>
-<a href="https://www.codewars.com/users/IgorDuino">
- <img width="150px" src="https://www.codewars.com/users/IgorDuino/badges/micro" alt="CodeWars">
-</a>
 
