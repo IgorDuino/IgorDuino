@@ -1,8 +1,8 @@
 # 👋 My name is Igor
 My website - [igor.tatar](https://igor.tatar)
  - 🖥️ Information Security RedTeam enjoyer
- - 🧑‍💻 Also doing some backend in Python
- - 🔍 Looking for a job as a pentester
+ - 🧑‍💻 I work in [1C](https://1c.ru) as cloud service developer
+ - 🧑‍💻 Also doing backend in [ProCollab](https://procollab.ru) [git](https://github.com/PROCOLLAB-github/api)
  - 🤖 Former roboticist
 
 <a href="https://www.hackthebox.eu/profile/550651">
