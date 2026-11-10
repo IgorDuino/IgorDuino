@@ -1,6 +1,5 @@
 # 👋 Hi, my name is Igor
-My website - [igor.tatar](https://igor.tatar)
- - 🖥️ Application Security Expert at [DeteAct](https://deteact.com)
+ - 🖥️ Security Engineer
  - 🔗 [My LinkedIn](https://www.linkedin.com/in/igordoinno/)
- - 🧑‍💻 Study at Innopolis University
+ - 🧑‍💻 Innopolis University
  - 🤖 Also like electronics and roboticist 
