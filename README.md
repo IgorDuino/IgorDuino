@@ -1,5 +1,5 @@
 # 👋 Hi, my name is Igor
- - 🖥️ Security Engineer
+ - 🖥️ Security Engineer @ Mayflower
  - 🔗 [My LinkedIn](https://www.linkedin.com/in/igordoinno/)
- - 🧑‍💻 Innopolis University
+ - 🧑‍💻 Studied Artificial Intelligence @ [Innopolis University](https://innopolis.university)
  - 🤖 Also like electronics and roboticist 
